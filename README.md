@@ -1,2 +1,2 @@
 # rev_notes
-my personal reverse engineering notes.
+My personal reverse engineering notes.
